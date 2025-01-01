@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hello World! I'm Maaz Faisal, a Software Engineer 👋🏼:
+🎓 B.S. in Computer Science at the University of Texas at Dallas (Gruduating August 2025)
 
-<!--
-**maazfaisal02/maazfaisal02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔧 Building high-performance systems and innovative applications
 
-Here are some ideas to get you started:
+🌐 Passionate about cutting-edge technologies and impactful projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Let’s connect and collaborate on amazing software!
+
+# 💻 Tech Stack:
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maazfaisal02/maazfaisal02/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maazfaisal02/maazfaisal02/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/maazfaisal02/maazfaisal02/output/github-snake.svg" />
+</picture>
