@@ -1,5 +1,5 @@
 # Hello World! I'm Maaz Faisal, a Software Engineer 👋🏼:
-🎓 B.S. in Computer Science at the University of Texas at Dallas (Graduating December 2025)
+🎓 B.S. in Computer Science at the University of Texas at Dallas (Graduating August 2025)
 
 🔧 Building high-performance systems and innovative applications
 
